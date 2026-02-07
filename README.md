@@ -1,4 +1,4 @@
-# BABYLON - Decentralized Prediction Markets
+# BABYLON - Private Prediction Markets for Companies
 
 <div align="center">
 

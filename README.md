@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](./LICENCE)
 [![Built with Scaffold-ETH 2](https://img.shields.io/badge/Built%20with-Scaffold--ETH%202-blueviolet?style=for-the-badge)](https://scaffoldeth.io)
 
-**A sleek, dark-themed decentralized prediction markets platform built on Ethereum**
+**A sleek, dark-themed decentralised private prediction markets platform built on Ethereum**
 
 [Features](#features) • [Tech Stack](#tech-stack) • [Getting Started](#getting-started) • [Usage](#usage) • [Architecture](#architecture)
 
@@ -16,13 +16,13 @@
 
 ## 📋 Overview
 
-BABYLON is a decentralized prediction markets platform that enables users to create, trade, and resolve prediction markets on the Ethereum blockchain. With a modern dark UI featuring red accents, BABYLON provides an intuitive interface for forecasting future events and betting on outcomes.
+BABYLON is a decentralised private prediction markets platform that enables small/medium business owners to create and resolve prediction markets for their employees on the Ethereum blockchain. With a modern dark UI featuring red accents, BABYLON provides an intuitive interface for even non-technicals to forecast future business events, far outcompeting traditional consultants and business forecasting without paying hand over fist. **More of the upside, less of the cost.**
 
 ## ✨ Features
 
 ### Core Functionality
 - 🎯 **Create Markets** - Launch prediction markets with custom questions and end dates
-- 💰 **Prize Pools** - Add ETH to markets as incentive prizes
+- 💰 **Prize Pools** - Add ETH to markets as incentive prizes (bonus incentive for employees to provide good information to the market)
 - 📊 **Real-time Probabilities** - Live probability calculations based on share distribution
 - 🎲 **Binary Outcomes** - Trade YES/NO shares on market outcomes
 - ⚡ **Instant Settlement** - Automated payout distribution to winners
